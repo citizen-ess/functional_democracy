@@ -1,6 +1,4 @@
 # Functional Democracy
-This repo describes a modification to the U.S. political system to hinder unhinged actors from injecting needless chaos into American politics
-
 ---
 
 **Intro:**  
