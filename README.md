@@ -79,6 +79,4 @@ All departments should then be transformed into elected committees with the purp
 
 To facilitate the above change, all current House Representative members and Senators will be given life-long appointments. After a current congress member dies, elections for his/her seat will proceed as usual. These changes can be implemented with an amendment to the constitution, and this lifelong appointment ensures that there is an incentive from the existing powers to move forward with the proposal. The current Executive branch has done away with notions of political decorum and norms. Consequently, members of the Judicial and Legislative branch should use the full powers granted to them by the constitution for the benefit of the United States, regardless of whether actions taken fall within historical norms.
 
-This concludes the proposal for Functional Democracy. 
-
 \~Citizen Ess
