@@ -10,21 +10,21 @@ What follows is a proposal for a political system called, “Functional Democrac
 The creation of the Functional Democratic system is motivated by the following observations:
 
 * The current state of U.S. politics is chaotic.  
-* The U.S. political system is poorly structured around political parties that are not well scoped.  
-  * I.e. Democrat and Republican as group identifiers, give an idea of political beliefs that individuals hold, but those beliefs are not meaningful for *most* issues that need to be addressed; so there are typically only a handful of issues at the forefront of political discussions.  
+* The U.S. political system is poorly structured around political parties that are useless beyond bifurcating a handful hot-button issues at the forefront of current zeitgeist.
 * Even with a hypothetical cooperative congress, members of congress operate well beyond their areas of knowledge for the majority of issues they legislate on.  
-* Expertise makes for an unpleasant social bludgeon. I.e. being told you’re wrong or ignorant and to trust the experts doesn’t feel good. However, our daily lives comfortably revolve around non politicized expertise.  
-  * If you need a surgery, see a surgeon; if your house is on fire, call a firefighter, etc.
+* Expertise makes for an unpleasant social bludgeon (being told you’re wrong or ignorant and to trust the experts doesn’t feel good), but our daily lives comfortably revolve around non politicized expertise.  
+  * E.g. If you need a surgery, see a surgeon; if your house is on fire, call a firefighter, etc.
 
 ---
 
 **The Proposal:**  
-The U.S. executive branch consists of a Cabinet which is a group of departments that serve to advise the President. These departments break out into various concerns of the American populace (e.g. department of transportation, department of energy, department of agriculture, etc.) and they also deal with the implementation and enforcement of the laws passed by congress. I propose that the following departments should be added or modified:
+The U.S. executive branch consists of a group of departments that serve to advise the President called the Executive Cabinet. These departments are associated with various concerns of the American populace (e.g. department of transportation, department of energy, department of agriculture, etc.) and they also deal with the implementation and enforcement of the laws passed by congress. I propose that the following departments should be added to the cabinet or modified:
 
 * Department of Technology (new)  
   * Governs laws focused on the usage, creation, sale, and distribution of technology (Software and Hardware involving microprocessors, integrated circuits, computers, internet, etc.)  
 * Department of Science, Research, and Development (new)  
-  * Governs ethics and rules for R\&D; governs public data provisioning; appoints members of various research departments;  
+  * Governs ethics and rules for R\&D; governs public data provisioning; appoints members of various research departments;
+  * Alternatively, elevate the Office of Science and Technology Policy and include the above in its scope.  
 * Department of Delegation (new)  
   * Does not make laws; litigates any scope concerns raised by the new legislative branches.  
   * See point 7 below for more details.   
@@ -38,7 +38,7 @@ All departments should then be transformed into elected committees with the purp
 
 1. There is one member per committee, per state with a single six year term.  
    1. Congress to determine a process allowing the delegation committee to expand membership
-   2. Each state will always have an equal number of members even after expansion.
+   2. All states must must maintain an equal number of members even after member expansion expansion.
 
 2. No member can take a party name or campaign around a party name.  
    1. A member’s formal title is to be “Representative” when speaking generally or “Representative of \[Committee name\]” (e.g. Representative of Agriculture) when speaking specifically.  
