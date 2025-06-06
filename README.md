@@ -2,9 +2,7 @@
 ---
 
 **Intro:**  
-What follows is a proposal for a political system called, “Functional Democracy.” It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains. 
-
-In this document, instead of the usual electoral changes (ranked choice voting, open primaries, etc.), I propose a larger structural change via an amendment to the constitution with an incentive for congress, and I would like to extend a challenge to any readers to share alternative approaches that they believe would improve the U.S. political system.
+What follows is a proposal for a political system called, “Functional Democracy.” It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains instead of the usual electoral changes (ranked choice voting, open primaries, etc.)
 
 ---
 
@@ -13,9 +11,9 @@ The creation of the Functional Democratic system is motivated by the following o
 
 * The current state of U.S. politics is chaotic.  
 * The U.S. political system is poorly structured around political parties that are not well scoped.  
-  * I.e. “Democrat” and “Republican” as group identifiers, give an idea of political beliefs that individuals hold, but those beliefs are not meaningful for *most* issues that need to be addressed; so there are typically only a handful of issues at the forefront of political discussions.  
+  * I.e. Democrat and Republican as group identifiers, give an idea of political beliefs that individuals hold, but those beliefs are not meaningful for *most* issues that need to be addressed; so there are typically only a handful of issues at the forefront of political discussions.  
 * Even with a hypothetical cooperative congress, members of congress operate well beyond their areas of knowledge for the majority of issues they legislate on.  
-* Expertise makes for an unpleasant psychological bludgeon. I.e. being told you’re wrong or ignorant and to trust the experts doesn’t feel good. However, our daily lives comfortably revolve around non politicized expertise.  
+* Expertise makes for an unpleasant social bludgeon. I.e. being told you’re wrong or ignorant and to trust the experts doesn’t feel good. However, our daily lives comfortably revolve around non politicized expertise.  
   * If you need a surgery, see a surgeon; if your house is on fire, call a firefighter, etc.
 
 ---
@@ -57,12 +55,12 @@ All departments should then be transformed into elected committees with the purp
 5. Upon creation of this system, all new legislative committees are to be evaluated by the House and Senate to define their area of governance.  
    1. Additionally committees should be merged or split where appropriate.
 
-6. Each new legislative committee can generate a single implementation and enforcement division under it to take the role of the current executive departments.
+6. Each new legislative committee can generate a enforcement division under it to take the role of the current executive departments.
 
 7. Laws intended to be passed by these committees are presented to the Delegation committee for review instead of going through the House and Senate.  
    1. The Delegation committee will determine whether the law is within the scope of one or more committees.   
    2. After review, the law must be voted on by members of every relevant committee, or the House and Senate if no committees are deemed appropriate.  
-   3. The president signs bills into law after they pass a committee vote.  
+   3. The president signs bills into law after a successful committee vote.  
    4. Congress to develop a process that allows the Delegation committee members to review incoming bills in parallel.  
       1. For example, every month, members are broken into random pairs that form a team.  
       2. Each team is assigned separate bills from the other committees for review, and team members internally determine scope.
@@ -71,10 +69,8 @@ All departments should then be transformed into elected committees with the purp
 
 9. Each committee will elect its own leader to take the role of presidential adviser.
 
-10. If a state does not have any candidates that would qualify for membership of a given body, any citizen that could qualify as a Senator for that state can run as a special member which will have half the voting power of a normal member.
+10. If a state does not have any candidates that would qualify for membership of a given body, any citizen that qualifies to run for the Senate for that state can run as a special member which will have half the voting power of a normal member.
 
 11. Additional amendments to the constitution will remain within the domain of the original House and Senate and will not involve the newly created legislative bodies.
-
-To facilitate the above change, all current House Representative members and Senators will be given life-long appointments. After a current congress member dies, elections for his/her seat will proceed as usual. These changes can be implemented with an amendment to the constitution, and this lifelong appointment ensures that there is an incentive from the existing powers to move forward with the proposal. The current Executive branch has done away with notions of political decorum and norms. Consequently, members of the Judicial and Legislative branch should use the full powers granted to them by the constitution for the benefit of the United States, regardless of whether actions taken fall within historical norms.
 
 \~Citizen Ess
